@@ -9,6 +9,13 @@
 
 #include "Arduino.h"
 
+/*
+enum PgaGain
+{
+	Gain1 = B00000000
+}
+*/
+
 #define GAIN_1   B00000000
 #define GAIN_2   B00000001
 #define GAIN_4   B00000010
